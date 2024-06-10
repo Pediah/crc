@@ -293,7 +293,6 @@ img {
 	color: #fff;
 }
 .icon-area .icon a:before {
-	content: "";
 	position: absolute;
 	width: 100%;
 	height: 100%;
